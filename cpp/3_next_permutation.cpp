@@ -84,4 +84,5 @@ int main(){
     }
     Solution::solveNextPerm(currentPermutation);
     utils::print_output(currentPermutation);
+    return 0;
 }
